@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Linea original en MAIN
-=======
-Linea editada desde TUTO
->>>>>>> tuto
